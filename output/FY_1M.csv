@@ -1,0 +1,160 @@
+,_id,Name,Category,Description,Latitude,Longitude,Founded Year,Total Money Raised,Raised Amount,Currency,Address,Zip code,City
+602,52cdef7c4bab8bd675297f78,CircleUp,finance,Equity-based Crowdfunding,,,2011.0,$9M,9000000.0,USD,,,San Francisco
+625,52cdef7c4bab8bd675297f94,PeekYou,search,,40.757929,-73.985506,2012.0,$1.83M,1825000.0,USD,,,New York
+637,52cdef7c4bab8bd675297f9e,GENWI,mobile,Cloud Publishing for Mobile,33.8171,-111.9035,2010.0,$7.1M,7100000.0,USD,4966 El Camino Real,94022,Los Altos
+714,52cdef7c4bab8bd675297fec,Fixya,web,Tech Support Community,37.566879,-122.323895,2013.0,$8M,8000000.0,USD,One Franklin Parkway,94401,San Mateo
+739,52cdef7c4bab8bd675298009,Mobovivo,mobile,Second screen apps for TV and sports.,,,2009.0,C$1M,1000000.0,CAD,1400 700 2nd St SW,T2P 4V5,Calgary
+1177,52cdef7c4bab8bd6752981a0,Pinger,messaging,,,,2012.0,$18.5M,18500000.0,USD,97 S. 2nd Street,95113,San Jose
+1228,52cdef7c4bab8bd6752981d8,Widgetbox,other,Application creation and distribution,37.798853,-122.398599,2012.0,$14.5M,14500000.0,USD,,94111,San Francisco
+1233,52cdef7c4bab8bd6752981dc,RazorGator,ecommerce,online ticket reselling,34.047312,-118.445243,2011.0,$58.8M,58800000.0,USD,11150 Santa Monica Blvd. Suite 500,90025,Los Angeles
+1538,52cdef7c4bab8bd67529831a,Social Gaming Network,games_video,social gaming platform,37.446823,-122.161523,2011.0,$17.1M,17100000.0,USD,9570 W. Pico Blvd 3rd Floor,90035,Los Angeles
+1539,52cdef7c4bab8bd67529831a,Social Gaming Network,games_video,social gaming platform,34.0698494,-118.4054182,2011.0,$17.1M,17100000.0,USD,9606 S. Santa Monica Blvd,90210,Beverly Hills
+2004,52cdef7c4bab8bd675298509,Skydeck,mobile,photos social mobile messaging,37.5645375,-122.3254705,2012.0,$4M,4000000.0,USD,330 Waverley St.,94301,Palo Alto
+2299,52cdef7c4bab8bd675298608,Magento,ecommerce,eCommerce Platform,34.052187,-118.243425,2010.0,$22.5M,22500000.0,USD,,,Los Angeles
+2370,52cdef7c4bab8bd67529865e,TeamSnap,mobile,sports teams online,,,2009.0,$5.08M,5077276.0,USD,1035 Pearl St.,80302,Boulder
+3108,52cdef7d4bab8bd675298970,Pixsta,web,Visual Search for ecommerce,51.51819,-0.208979,2010.0,£3M,3000000.0,,9 Thorpe Close,W10 5XL,London
+3881,52cdef7d4bab8bd675298ce2,BrandYourself,web,Take Control of Your Own Search Results,42.275263,-71.24762,2009.0,$1.5M,1500000.0,USD,120 Walker St,10013,New York
+4096,52cdef7d4bab8bd675298dcc,Titan Gaming,games_video,,53.544711,-113.515769,2010.0,$1M,1000000.0,USD,"1351 4th Street, 4th floor",90401,Santa Monica
+4449,52cdef7d4bab8bd675298f74,SiSense,analytics,Big Data Analytics,,,2010.0,$10M,10000000.0,USD,36 Hanamal st.,,Tel Aviv
+4450,52cdef7d4bab8bd675298f74,SiSense,analytics,Big Data Analytics,,,2010.0,$10M,10000000.0,USD,14 Wall Street,,NYC
+5318,52cdef7d4bab8bd6752993a7,Prezi,software,Presentation Software,47.490346,19.059078,2009.0,$14.3M,14260000.0,USD,Nagymező utca 54-56,1065,Budapest
+5319,52cdef7d4bab8bd6752993a7,Prezi,software,Presentation Software,,,2009.0,$14.3M,14260000.0,USD,735 Montgomery Street,94111,San Francisco
+5409,52cdef7d4bab8bd675299413,Garena,web,Global online gaming community,,,2009.0,$2M,2000000.0,USD,,,Singapore
+5410,52cdef7d4bab8bd675299413,Garena,web,Global online gaming community,,,2009.0,$2M,2000000.0,USD,,,Taipei
+5411,52cdef7d4bab8bd675299413,Garena,web,Global online gaming community,,,2009.0,$2M,2000000.0,USD,,,Hanoi
+5412,52cdef7d4bab8bd675299413,Garena,web,Global online gaming community,,,2009.0,$2M,2000000.0,USD,,,Ho Chi Minh City
+5535,52cdef7d4bab8bd6752994a6,GetYourGuide,travel,Booking website for tours & activities,47.3912899,8.5082891,2009.0,$16M,16000000.0,USD,GetYourGuide AG,8005,Zurich
+5536,52cdef7d4bab8bd6752994a6,GetYourGuide,travel,Booking website for tours & activities,,,2009.0,$16M,16000000.0,USD,GetYourGuide GmbH,10409,Berlin
+5537,52cdef7d4bab8bd6752994a6,GetYourGuide,travel,Booking website for tours & activities,,,2009.0,$16M,16000000.0,USD,GetYourGuide,89032,Las Vegas
+5711,52cdef7d4bab8bd675299583,Integrate,software,Marketing Software and Media Services,40.7481039,-74.0353787,2010.0,$34.8M,34750000.0,USD,4900 N. Scottsdale Road,85251,Scottsdale
+5712,52cdef7d4bab8bd675299583,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,1821 Blake St.,80202,Denver
+5713,52cdef7d4bab8bd675299583,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,23 Geary St,94104,San Francisco
+5714,52cdef7d4bab8bd675299583,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,239 South Street,01748,Hopkinton
+5808,52cdef7d4bab8bd6752995ff,travelmob,travel,Social Stay Marketplace,21.303049,-157.78907,2011.0,$1M,1000000.0,USD,71 Ayer Rajah Crescent,139951,Singapore
+5856,52cdef7d4bab8bd675299636,UsingMiles,travel,Award+Cash Travel Meta Search ,39.749671,-104.9998449,2010.0,$3.27M,3265000.0,USD,1514 Blake St,80202,Denver
+6003,52cdef7d4bab8bd6752996f5,Burt,advertising,Digital Intelligence Service,59.337864,18.036587,2009.0,$3.5M,3500000.0,USD,Karl Gustavsgatan 1A,41125,Gothenburg
+6249,52cdef7d4bab8bd67529980b,Inuvo,advertising,Performance-based advertising,27.913011,-82.702449,2009.0,$4.2M,4200000.0,USD,15500 Lightwave Dr.,33760,Clearwater
+6429,52cdef7d4bab8bd67529990d,Integrate,software,Marketing Software and Media Services,40.7481039,-74.0353787,2010.0,$34.8M,34750000.0,USD,4900 N. Scottsdale Road,85251,Scottsdale
+6430,52cdef7d4bab8bd67529990d,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,1821 Blake St.,80202,Denver
+6431,52cdef7d4bab8bd67529990d,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,23 Geary St,94104,San Francisco
+6432,52cdef7d4bab8bd67529990d,Integrate,software,Marketing Software and Media Services,,,2010.0,$34.8M,34750000.0,USD,239 South Street,01748,Hopkinton
+6530,52cdef7d4bab8bd675299989,travelmob,travel,Social Stay Marketplace,21.303049,-157.78907,2011.0,$1M,1000000.0,USD,71 Ayer Rajah Crescent,139951,Singapore
+6576,52cdef7d4bab8bd6752999c0,UsingMiles,travel,Award+Cash Travel Meta Search ,39.749671,-104.9998449,2010.0,$3.27M,3265000.0,USD,1514 Blake St,80202,Denver
+6723,52cdef7d4bab8bd675299a7f,Burt,advertising,Digital Intelligence Service,59.337864,18.036587,2009.0,$3.5M,3500000.0,USD,Karl Gustavsgatan 1A,41125,Gothenburg
+6972,52cdef7d4bab8bd675299b95,Inuvo,advertising,Performance-based advertising,27.913011,-82.702449,2009.0,$4.2M,4200000.0,USD,15500 Lightwave Dr.,33760,Clearwater
+7764,52cdef7d4bab8bd675299fd5,Webtab,mobile,Mobile social commerce,,,2010.0,$2M,2000000.0,USD,847 Sansome Street,94111,San Francisco
+7813,52cdef7d4bab8bd67529a00e,Formspring,web,Conversational Q&A Service,39.9052263,-86.0547016,2009.0,$14.3M,14255000.0,USD,,94105,San Francisco
+7901,52cdef7d4bab8bd67529a08a,isocket,advertising,Direct ad sales platform,37.55909,-122.321836,2009.0,$10.1M,10104119.0,USD,270 East Lane,94010,Burlingame
+7933,52cdef7d4bab8bd67529a0b4,Emotive Communications,enterprise,mobile cloud computing,,,2011.0,$14M,13950000.0,USD,345 California Street,94104,San Francisco
+8045,52cdef7d4bab8bd67529a14a,Diffbot,analytics,visual learning robot,,,2010.0,$2M,2000000.0,USD,395 Page Mill Rd,94306,Palo Alto
+8170,52cdef7d4bab8bd67529a1e3,Yipit,web,Every deal. One place.,40.744618,-73.987764,2010.0,$7.55M,7550000.0,USD,3 W 18th,10011,New York
+8320,52cdef7e4bab8bd67529a29f,StudyBlue,education,StudyBlue is your online home to store l,43.068006,-89.39256,2009.0,$18.5M,18453939.0,USD,612 W. Main St.,53703,Madison
+8638,52cdef7e4bab8bd67529a44c,Storenvy,ecommerce,"""Tumblr for E-commerce""",,,2009.0,$6.53M,6525000.0,USD,2111 Mission St,94110,San Francisco
+8727,52cdef7e4bab8bd67529a4b2,HyperWeek,social,Social Networks ,46.2121463,6.1503245,2009.0,$1.31M,1310000.0,USD,Rue de la Colline 10,1205,Geneva
+9118,52cdef7e4bab8bd67529a68e,FeedHenry,enterprise,Mobile Application Platform,,,2010.0,$9M,9000000.0,USD,ArcLabs Research & Innovation Building,Waterford,Waterford
+9119,52cdef7e4bab8bd67529a68e,FeedHenry,enterprise,Mobile Application Platform,42.4851017,-71.2089211,2010.0,$9M,9000000.0,USD,15 New England Executive Park,01803,Burlington
+9265,52cdef7e4bab8bd67529a73a,Jolicloud,enterprise,Cloud management platform,48.8566667,2.3509871,2009.0,$4.2M,4200000.0,USD,,,Paris
+9451,52cdef7e4bab8bd67529a810,Avenir Medical,biotech,,,,2010.0,$4.03M,4025000.0,USD,295 Hagey Blvd,N2L 6R5,"Waterloo, ON"
+10093,52cdef7e4bab8bd67529ab2f,ScaleMP,software,Virtualization for high end computing,37.3229727,-122.0385792,2009.0,$8M,8000000.0,USD,20863 Stevens Creek Blvd.,95014,Cupertino
+10214,52cdef7e4bab8bd67529abc2,VisualOn,software,Multimedia Software,37.270518,-121.955879,2011.0,$3.1M,3100000.0,USD,4675 Stevens Creek Blvd,95051,Santa Clara
+10226,52cdef7e4bab8bd67529abd9,Heyzap,games_video,Social Discovery Platform,37.7905538,-122.4041485,2009.0,$7.97M,7965000.0,USD,"3rd Floor, 251 Kearny Street",94108,San Francisco
+10286,52cdef7e4bab8bd67529ac2f,Meez,hardware,Avatar community site,37.785271,-122.397582,2009.0,$10.2M,10200000.0,USD,"620 Folsom St, Suite 350",94107,San Francisco
+10824,52cdef7e4bab8bd67529ae9f,Talari Networks,enterprise,Enterprise networking gear,37.317735,-121.949417,2009.0,$45.1M,45100000.0,USD,550 S. Winchester Blvd.,95128,San Jose
+10825,52cdef7e4bab8bd67529ae9f,Talari Networks,enterprise,Enterprise networking gear,35.8535092,-78.8267112,2009.0,$45.1M,45100000.0,USD,1100 Perimeter Park Dr,27560,Morrisville
+10873,52cdef7e4bab8bd67529aed9,Isai,finance,,,,2009.0,$33M,33000000.0,USD,10 bis avenue de la grande armee,75017,paris
+10945,52cdef7e4bab8bd67529af1f,Shutl,ecommerce,,51.5196135,-0.1020265,2009.0,£7.66M,7660000.0,GBP,"11 Curtain Road,",EC2A3LT,London
+11297,52cdef7e4bab8bd67529b0e2,DediServe,network_hosting,Cloud Provider,,,2009.0,€1M,1000000.0,EUR,The Gasworks,,Belfast
+11298,52cdef7e4bab8bd67529b0e2,DediServe,network_hosting,Cloud Provider,,,2009.0,€1M,1000000.0,EUR,13 Upper Baggot Street,,Dublin
+11299,52cdef7e4bab8bd67529b0e2,DediServe,network_hosting,Cloud Provider,,,2009.0,€1M,1000000.0,EUR,2225 Bayshore Road,CA 94303,Palo Alto
+11309,52cdef7e4bab8bd67529b0f2,Tinychat,web,"In-Browser Audio, Video Chat",42.3756409,-72.5196907,2009.0,$1.5M,1500000.0,USD,PO Box 431,11542,Glen Cove
+11391,52cdef7e4bab8bd67529b158,BASH Gaming,games_video,Social Mobile Casino Games,37.5561712,-122.0780632,2010.0,$1M,1000000.0,USD,,94555,Fremont
+11392,52cdef7e4bab8bd67529b158,BASH Gaming,games_video,Social Mobile Casino Games,12.971606,77.594376,2010.0,$1M,1000000.0,USD,,,Bangalore
+11526,52cdef7e4bab8bd67529b1f6,AppNeta,software,IT Performance Management,42.318138,-71.24756,2010.0,$55.8M,55799998.0,USD,285 Summer Street,02127,SOUTH BOSTON
+11560,52cdef7e4bab8bd67529b22a,AppZero,software,application migration software,42.6751888,-71.1469003,2009.0,$15.1M,15100000.0,USD,300 Brickston Sq.,01810,Andover
+11660,52cdef7e4bab8bd67529b2a6,MyLikes,advertising,Advertising platform for the people web,37.777995,-122.408914,2010.0,$6.23M,6230000.0,USD,"1000 Brannan St, #502",94103,San Francisco
+11713,52cdef7e4bab8bd67529b2dc,Simulmedia,advertising,TV advertising company,40.727216,-73.994797,2009.0,$57.3M,57250008.0,USD,670 Broadway,10012,New York
+11715,52cdef7e4bab8bd67529b2d9,Cognitive Match,advertising,LET’S GET RELEVANT,51.5119418,-0.0936688,2009.0,$10.2M,10150000.0,USD,33/14 Great Saint Thomas Apostle,EC4V 2BB,London
+11716,52cdef7e4bab8bd67529b2d9,Cognitive Match,advertising,LET’S GET RELEVANT,40.7454098,-73.9822211,2009.0,$10.2M,10150000.0,USD,475 Park Ave S,10016,New York
+11717,52cdef7e4bab8bd67529b2d9,Cognitive Match,advertising,LET’S GET RELEVANT,37.380653,-122.1156934,2009.0,$10.2M,10150000.0,USD,4 West 4th St,94402,Palo Alto
+11718,52cdef7e4bab8bd67529b2d9,Cognitive Match,advertising,LET’S GET RELEVANT,41.2601663,-96.0791435,2009.0,$10.2M,10150000.0,USD,10824 Old Mill Road,68154,Omaha
+11765,52cdef7e4bab8bd67529b32d,Gridstore,network_hosting,Hyper-V Software Defined Storage,37.4189073,-122.0884286,2009.0,€25M,25000000.0,EUR,1975 Lndings Drive,94043,Mountain View
+11879,52cdef7e4bab8bd67529b3a8,Taggify,advertising,Monetize websites through ads in content,,,2011.0,$1M,1000000.0,USD,Concepcion Arenal 3425,1414,Buenos Aires
+11904,52cdef7e4bab8bd67529b3be,thredUP,fashion,Fashion resale online,,,2009.0,$25.8M,25820000.0,USD,580 Market Street,94104,San Francisco
+11950,52cdef7e4bab8bd67529b3e7,Cloudkick,enterprise,Cloud Management Tool,,,2009.0,$2.75M,2750000.0,USD,,,San Francisco
+12009,52cdef7e4bab8bd67529b438,Foursquare,mobile,Location based mobile network,,,2009.0,$147M,147350000.0,USD,568 Broadway,10012,New York
+12010,52cdef7e4bab8bd67529b438,Foursquare,mobile,Location based mobile network,,,2009.0,$147M,147350000.0,USD,363 Clementina St,94013,San Francisco
+12131,52cdef7e4bab8bd67529b501,GameChanger Media,software,Digital platform for amateur sports.,40.7078343,-74.0136605,2009.0,$3.64M,3637657.0,USD,86 Chambers St,10007,New York
+12169,52cdef7e4bab8bd67529b52e,Z2Live,games_video,Mobile Games,47.6103008,-122.3399782,2009.0,$6.5M,6499999.0,USD,1601 2nd Ave,98101,Seattle
+12231,52cdef7e4bab8bd67529b572,Tongal,web,Creative Network,34.007112,-118.489748,2009.0,$16M,16000000.0,USD,1918 Main Street,90405,Santa Monica
+12249,52cdef7e4bab8bd67529b58d,Pict,ecommerce,Image hosting,,,2012.0,$1.4M,1400000.0,USD,,94105,San Francisco
+12258,52cdef7e4bab8bd67529b591,oneforty,enterprise,Social business hub,42.364014,-71.101375,2009.0,$2.35M,2345000.0,USD,"614 Massachusetts Ave, Suite 203",02139,Cambridge
+12337,52cdef7e4bab8bd67529b5fc,Chartbeat,analytics,Realtime Web analytics,40.73343,-73.990967,2009.0,$14.5M,14475000.0,USD,826 Broadway,10003,New York
+12338,52cdef7e4bab8bd67529b608,TweetPhoto,web,Real-time photo sharing platform,,,2009.0,$2.6M,2600000.0,USD,,,San Diego
+12358,52cdef7e4bab8bd67529b625,One Kings Lane,ecommerce,Private Home Decor Sales,,,2009.0,$113M,113000000.0,,1355 Market St,94103,San Francisco
+12359,52cdef7e4bab8bd67529b625,One Kings Lane,ecommerce,Private Home Decor Sales,,,2009.0,$113M,113000000.0,,205 Hudson Street,10013,New York
+12360,52cdef7e4bab8bd67529b625,One Kings Lane,ecommerce,Private Home Decor Sales,,,2009.0,$113M,113000000.0,,9560 Wilshire Boulevard,90212,Beverly Hills
+12415,52cdef7e4bab8bd67529b675,Brandsclub,ecommerce,Private Sales Club,-23.5489433,-46.6388182,2009.0,$17M,17000000.0,USD,,,Sao Paulo
+12467,52cdef7e4bab8bd67529b6b9,CoTweet,advertising,Enterprise client for Twitter,37.7405936,-122.3764714,2009.0,$1.1M,1100000.0,USD,Pier 38,94107,San Francisco
+12566,52cdef7e4bab8bd67529b721,Novira Therapeutics,biotech,antiviral therapeutics,,,2009.0,$44M,43995221.0,USD,"259 N. RADNOR-CHESTER ROAD, SUITE 220",19087,Radnor
+12648,52cdef7e4bab8bd67529b79a,We Are Hunted,games_video,Online Music Chart,,,2009.0,$3M,3000000.0,USD,,,
+12682,52cdef7e4bab8bd67529b7bb,DataXu,advertising,Buy-side Ad Optimization,,,2009.0,$45.8M,45800000.0,USD,281 Summer Street,02210,Boston
+12683,52cdef7e4bab8bd67529b7bb,DataXu,advertising,Buy-side Ad Optimization,,,2009.0,$45.8M,45800000.0,USD,"44 W 28th Street, 8th Floor",10001,New York
+12684,52cdef7e4bab8bd67529b7bb,DataXu,advertising,Buy-side Ad Optimization,,,2009.0,$45.8M,45800000.0,USD,549 W Randolph St.,60661,Chicago
+12773,52cdef7e4bab8bd67529b849,MyEdu,education,"Succeed in college, and get a job.",30.288159,-97.750154,2009.0,$18.7M,18700000.0,USD,1301 S. MoPac Expy,78746,Austin
+12826,52cdef7e4bab8bd67529b8a7,Ikanos,enterprise,Broadband Chip Manufacturer,37.4734314,-121.9417078,2009.0,$42M,42000000.0,USD,47669 Fremont Blvd.,94538,Fremont
+12856,52cdef7e4bab8bd67529b8c0,Infochimps,enterprise,Big Data Solutions,30.2734822,-97.7588828,2009.0,$5.35M,5350000.0,USD,1214 W 6th St,78703,Austin
+12857,52cdef7e4bab8bd67529b8c0,Infochimps,enterprise,Big Data Solutions,,,2009.0,$5.35M,5350000.0,USD,425 Broadway,94063,Redwood City
+12986,52cdef7e4bab8bd67529b96c,Mashape,enterprise,The Cloud API Hub,,,2010.0,$1.6M,1601000.0,USD,433 Bryant St.,94107,San Francisco
+13086,52cdef7e4bab8bd67529b9e7,drchrono,medical,Bringing iPads to Healthcare,37.4202074,-122.0933053,2009.0,$4.13M,4125000.0,USD,1001 Rengstorff Avenue,94043,Mountain View
+13164,52cdef7e4bab8bd67529ba36,Square,mobile,Mobile payments system,,,2009.0,$341M,340500000.0,USD,1455 Market Street,94103,San Francisco
+13165,52cdef7e4bab8bd67529ba36,Square,mobile,Mobile payments system,,,2009.0,$341M,340500000.0,USD,,,New York
+13166,52cdef7e4bab8bd67529ba36,Square,mobile,Mobile payments system,,,2009.0,$341M,340500000.0,USD,,,Waterloo
+13267,52cdef7e4bab8bd67529bac7,Shareaholic,web,content sharing and discovery platform,42.3647559,-71.1032591,2009.0,$5.46M,5455000.0,USD,109 Kingston Street,02111,Boston
+13355,52cdef7e4bab8bd67529bb1f,SimpleGeo,advertising,Location Infrastructure,,,2009.0,$9.81M,9807367.0,USD,41 Decatur,94103,San Francisco
+13467,52cdef7e4bab8bd67529bbbe,gdgt,hardware,Consumer electronics,,,2009.0,$3.72M,3715000.0,USD,901 Mission St.,94103,San Francisco
+13573,52cdef7e4bab8bd67529bc46,Viralheat,enterprise,Monitor social media in real time.,,,2009.0,$4.33M,4325000.0,USD,1510 Fashion Island Blvd. Ste. 260,94404,San Mateo
+13639,52cdef7e4bab8bd67529bc99,Vaultive,security,information-security,40.707954,-74.011114,2009.0,$11M,11000000.0,USD,"100 Broadway, 14th Floor",10005,New York
+13648,52cdef7e4bab8bd67529bcb0,The Resumator,software,SaaS Recruiting Software,40.438423,-80.001933,2009.0,$2.98M,2975000.0,USD,,,Pittsburgh
+13689,52cdef7e4bab8bd67529bced,Sofa Labs,social,Social Applications Developer,37.5646055,-122.3229235,2009.0,$1.2M,1200000.0,,300 South Ellsworth Avenue,94401,San Mateo
+13730,52cdef7e4bab8bd67529bd23,Fliptop,enterprise,Predictive Analytics Platform,37.775206,-122.419209,2010.0,$6.79M,6785000.0,USD,580 Howard Street,94105,San Francisco
+13748,52cdef7e4bab8bd67529bd37,Red Ambiental,cleantech,Mexican cleantech company,,,2012.0,$20M,20000000.0,USD,Adolfo LÃ³pez Mateos No. 102 Col. Puerto de Durazno,,
+13749,52cdef7e4bab8bd67529bd1a,Kickstarter,design,Creative project funding.,,,2009.0,$10M,10000000.0,USD,58 Kent St,11222,Brooklyn
+13755,52cdef7e4bab8bd67529bd39,Quirky,ecommerce,We Make Invention Accessible,,,2009.0,$175M,175325006.0,USD,606 West 28th Street,10012,New York
+13820,52cdef7f4bab8bd67529bd88,ClickFuel,advertising,Internet Marketing Solutions Provider,42.3406534,-71.0680027,2009.0,$9M,9000000.0,USD,7 New England Executive Park,01803,Burlington
+13866,52cdef7f4bab8bd67529bdcd,Gravity,advertising,Conversation Engine,34.007967,-118.489681,2009.0,$20.6M,20600000.0,USD,"Project Rover, Inc.",,Santa Monica
+13944,52cdef7f4bab8bd67529be2e,Althea Systems,hardware,Internet TV startup,12.9349604,77.6136847,2009.0,$3M,3000000.0,USD,"#773, 80 Feet Road",560034,Bangalore
+13999,52cdef7f4bab8bd67529be67,Urban Airship,mobile,Mobile App Software,,,2009.0,$46.6M,46600000.0,USD,1417 NW Everett St.,97209,Portland
+14000,52cdef7f4bab8bd67529be67,Urban Airship,mobile,Mobile App Software,,,2009.0,$46.6M,46600000.0,USD,41 Decatur,94103,San Francisco
+14001,52cdef7f4bab8bd67529be67,Urban Airship,mobile,Mobile App Software,,,2009.0,$46.6M,46600000.0,USD,408 Florence Street,94301,Palo Alto
+14002,52cdef7f4bab8bd67529be67,Urban Airship,mobile,Mobile App Software,,,2009.0,$46.6M,46600000.0,USD,24 Endell Street,WC2H 9HQ,London
+14223,52cdef7f4bab8bd67529bf69,VistaGen Therapeutics,biotech,Pluripotent stem cell technology ,37.6656476,-122.3843489,2013.0,$41.3M,41250000.0,USD,"384 Oyster Point Blvd., Suite #8",94080,South San Francisco
+14296,52cdef7f4bab8bd67529bf9a,Talenthouse,web,Content Marketing Platform,,,2009.0,$15.1M,15100000.0,USD,542 High St,94301,Palo Alto
+14297,52cdef7f4bab8bd67529bf9a,Talenthouse,web,Content Marketing Platform,,,2009.0,$15.1M,15100000.0,USD,8810 Melrose Ave,90065,West Hollywood
+14304,52cdef7f4bab8bd67529bfb5,BOKU,mobile,Mobile Payments Platform,,,2009.0,$77.5M,77499998.0,USD,Maximillianstrasse 29,80539,Munich
+14317,52cdef7f4bab8bd67529bfc6,ipadio,messaging,Technology and Communications company,51.8205815,0.0118608,2009.0,$1.6M,1600000.0,USD,96 Farringdon Road,EC1R 3EA,London
+14333,52cdef7f4bab8bd67529bfdf,Pixable,social,Your photo inbox,,,2009.0,$6.1M,6100000.0,USD,"137 Varick Street, 603",10013,New York City
+14372,52cdef7f4bab8bd67529c000,Applied Genetics Technologies Corporation,biotech,Gene therapy,29.7847641,-82.4768036,2009.0,$78.1M,78050000.0,USD,11801 Research Drive,32615,Alachua
+14393,52cdef7f4bab8bd67529c00e,Solix Biofuels,cleantech,biofuels-algae plants,40.5932386,-105.0766501,2009.0,$68.8M,68800000.0,USD,430 B. North College Ave.,80524,Fort Collins
+14394,52cdef7f4bab8bd67529c014,Ykone,web,Social media site for fashion,48.8566667,2.3509871,2009.0,€1.5M,1500000.0,EUR,,,Paris
+14428,52cdef7f4bab8bd67529c041,Clovis Oncology,biotech,Oncology Compound Licencing Company,40.026,-105.259041,2009.0,$357M,356962756.0,USD,2525 28th Street,80301,Boulder
+14438,52cdef7f4bab8bd67529c04d,Aragon Pharmaceuticals,biotech,Hormone-resistant Cancer Treatment,,,2009.0,$122M,122000000.0,USD,12780 El Camino Real Ste 301,92130-2042,San Diego
+14611,52cdef7f4bab8bd67529c12a,Layar,mobile,Augmented Reality,52.3657578,4.8928722,2009.0,$13.4M,13400000.0,USD,Vijzelstraat 20,1017HK,Amsterdam
+14704,52cdef7f4bab8bd67529c198,FertilityAuthority,web,Info Site for Fertility issues,,,2009.0,$1.7M,1700000.0,USD,"150 East 49th Street, 5th Floor",10017,New York
+14714,52cdef7f4bab8bd67529c1a0,Small Bone Innovations,medical,Small Bone Device Company,,,2009.0,$469M,469391464.0,USD,1380 S. Pennsylvania Avenue,19067,Morrisville
+14718,52cdef7f4bab8bd67529c1a8,ticketea,ecommerce,Online event management platform,40.4455155,-3.7061764,2010.0,$5.73M,5730000.0,USD,Marques de Lema,28003,Madrid
+14758,52cdef7f4bab8bd67529c1d7,Personal,mobile,,,,2009.0,$21.1M,21081755.0,USD,1010 Wisconsin Ave. NW,20007,Washington
+14957,52cdef7f4bab8bd67529c2d0,Delphi,cleantech,Mobile electronics,42.603532,-83.16134,2009.0,$8M,8000000.0,USD,5725 Delphi Drive,48098,
+15023,52cdef7f4bab8bd67529c328,Appsfire,mobile,App Discovery and Promotion Platform ,,,2009.0,$4.6M,4600000.0,USD,,,Paris
+15024,52cdef7f4bab8bd67529c328,Appsfire,mobile,App Discovery and Promotion Platform ,,,2009.0,$4.6M,4600000.0,USD,,,Tel Aviv
+15044,52cdef7f4bab8bd67529c343,ChallengePost,web,Software challenges and hackathons,40.7408042,-74.00717,2009.0,$4.6M,4600000.0,USD,425 West 13th Street,10014,New York
+15295,52cdef7f4bab8bd67529c448,Teambox,web,Collaboration and file sharing,41.4063346,2.1920231,2009.0,$6.75M,6750000.0,USD,Ronda Universitat 31,08007,Barcelona
+15296,52cdef7f4bab8bd67529c448,Teambox,web,Collaboration and file sharing,,,2009.0,$6.75M,6750000.0,USD,805 Veterans,94063,Redwood City
+15560,52cdef7f4bab8bd67529c591,Aava Mobile,mobile,Mobile Platform Developer,,,2009.0,$4.26M,4260000.0,USD,Nahkatehtaankatu 2,,
+15567,52cdef7f4bab8bd67529c59b,Luma International,software,Distributed Marketing SaaS Solution,,,2009.0,€3M,3000000.0,EUR,Lange Kievitstraat 118-120,2018,Antwerp
+15568,52cdef7f4bab8bd67529c59b,Luma International,software,Distributed Marketing SaaS Solution,,,2009.0,€3M,3000000.0,EUR,303 Twin Dolphin Drive Suite 600,94065-1422,303 Twin Dolphin Drive Suite 600
+15569,52cdef7f4bab8bd67529c59b,Luma International,software,Distributed Marketing SaaS Solution,,,2009.0,€3M,3000000.0,EUR,"22, place des Vosges",92400,Courbevoie
+15570,52cdef7f4bab8bd67529c59b,Luma International,software,Distributed Marketing SaaS Solution,,,2009.0,€3M,3000000.0,EUR,Delftseplein 36 3rd Floor,3013 AA,Rotterdam
+15795,52cdef7f4bab8bd67529c6b6,Tiny Speck,games_video,,49.2824551,-123.109217,2009.0,$17.2M,17200000.0,USD,163 Hastings St W,BC V6B 1H5,Vancouver
+15820,52cdef7f4bab8bd67529c6d4,Treehouse,education,An interactive education platform,,,2011.0,$19.4M,19388197.0,USD,,,Orlando
+15821,52cdef7f4bab8bd67529c6d4,Treehouse,education,An interactive education platform,,,2011.0,$19.4M,19388197.0,USD,,,Portland
+15833,52cdef7f4bab8bd67529c6e4,Getyoo,mobile,NFC Events Solutions,50.83997,4.3464721,2009.0,€1.13M,1130000.0,EUR,"Rue des Tanneurs, 60a",1000,Brussels
