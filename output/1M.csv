@@ -1,4 +1,4 @@
-,_id,Name,Category,Description,Latitude,Longitude,Founded Year,Total Money Raised,Raised Amount,Currency,Address,Zip code,City
+iid,Name,Category,Description,Latitude,Longitude,Founded Year,Total Money Raised,Raised Amount,Currency,Address,Zip code,City
 0,52cdef7c4bab8bd675297d8d,Digg,news,user driven social content website,37.764726,-122.394523,2004.0,$45M,45000000.0,USD,135 Mississippi St,94107,San Francisco
 3,52cdef7c4bab8bd675297d91,Geni,web,Geneology social network site,34.090368,-118.393064,2006.0,$16.5M,16500000.0,USD,9229 W. Sunset Blvd.,90069,West Hollywood
 5,52cdef7c4bab8bd675297d96,Gizmoz,web,Photo animation,37.48413,-122.169472,2003.0,$18.1M,18100000.0,USD,,,Menlo Park

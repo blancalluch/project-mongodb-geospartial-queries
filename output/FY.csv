@@ -1,4 +1,4 @@
-,_id,Name,Category,Description,Latitude,Longitude,Founded Year,Total Money Raised,Raised Amount,Currency,Address,Zip code,City
+iid,Name,Category,Description,Latitude,Longitude,Founded Year,Total Money Raised,Raised Amount,Currency,Address,Zip code,City
 366,52cdef7c4bab8bd675297ea7,Mokitown,web,,37.09024,-95.712891,2011.0,$0,0.0,0,,,
 602,52cdef7c4bab8bd675297f78,CircleUp,finance,Equity-based Crowdfunding,,,2011.0,$9M,9000000.0,USD,,,San Francisco
 625,52cdef7c4bab8bd675297f94,PeekYou,search,,40.757929,-73.985506,2012.0,$1.83M,1825000.0,USD,,,New York
