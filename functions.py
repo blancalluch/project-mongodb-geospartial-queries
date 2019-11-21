@@ -54,3 +54,30 @@ def apifoursquare(long,lat,query,limit,radius):
                "radius":radius}
     data = json.loads(foursquareRequestAuthorized(location).text)
     return data
+
+def geoquery(coll,coordinates,radius):
+    '''calculates the objects from a collection that are near the coordinates '''
+    sol=coll.find(
+    {"location":
+     {"$near":
+      {"$geometry":
+       {"type":"Point",
+        "coordinates":coordinates
+       },
+       "$maxDistance":radius
+      }
+     }
+    }
+)
+    return sol
+
+def googleNearBy_RequestAuthorized(params):
+    '''Requesting google geocode API for information of a address'''
+    authToken = os.getenv("API_KEY")
+    if not authToken:
+        raise ValueError("NECESITAS UN TOKEN")
+    else:
+        url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?{params}"
+        res = requests.get(url)
+
+    return res
