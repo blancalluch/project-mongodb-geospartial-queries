@@ -77,7 +77,7 @@ def googleNearBy_RequestAuthorized(params):
     if not authToken:
         raise ValueError("NECESITAS UN TOKEN")
     else:
-        url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?{params}"
+        url = f"https://maps.googleapis.com/maps/api/place/nearbysearch/json?key={authToken}&{params}"
         res = requests.get(url)
 
     return res
