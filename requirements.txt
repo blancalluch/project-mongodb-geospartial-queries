@@ -1,0 +1,9 @@
+pymongo==3.9.0
+requests==2.22.0
+python-dotenv==0.10.3
+jsonschema==3.1.1
+pandas==0.25.2
+haversine==2.1.2
+ipython==7.8.0
+folium==0.10.0
+numpy==1.17.3
