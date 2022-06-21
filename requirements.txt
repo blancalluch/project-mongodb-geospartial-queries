@@ -6,4 +6,4 @@ pandas==0.25.2
 haversine==2.1.2
 ipython==7.8.0
 folium==0.10.0
-numpy==1.17.3
+numpy==1.22.0
